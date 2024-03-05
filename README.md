@@ -1,6 +1,6 @@
-<div style="color: #051C24; background-color: #04BBFF;">
-    <h1 align="center">Votre Nom</h1>
-    <p align="center">"Votre message d'humeur"</p>
+<div>
+    <h1 align="center">NomaBouh</h1>
+    <p align="center">"La Vie c'est du Bis-Cuite"</p>
 </div>
 
 <div style="background-color: #0594D0;">
