@@ -103,13 +103,8 @@ Ma philosophie de vie peut se résumer ainsi : "La vie, c'est du bis-cuite". Ell
     </ul>
 </div>
 
-<div style="background-color: #04BBFF;">
-    <h2>Contact</h2>
-    <p>GitHub: <a href="URL_GITHUB">NomaBouh</a></p>
-    <p>LinkedIn: <a href="URL_LINKEDIN">Votre Profil</a></p>
-    <!-- Ajoutez d'autres moyens de contact ici -->
-    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/NomaBouh)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/NomaBouh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]([lien_vers_votre_profil_LinkedIn](https://www.linkedin.com/in/thomas-bourgeois-318353220/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:work.thomas.bourgeois@gmail.com)
 
-</div>
