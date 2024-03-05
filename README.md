@@ -11,14 +11,13 @@
 
 ---
 
-### 📚 Résumé
+### 📚 À propos de moi
 
-- **Formation:** Etudiant à la maîtrise en informatique de l'Université de Sherbrooke en douple diplôme à l'école d'ingénieur ISEP Paris.
-- **Statut actuel:** En cours / Étudiant à Université de Sherbrooke.
-- **Passions:** Passionner par les nouvelk technologie, l'IA et la programmation en tous genre. Je suis particulièrement passioner par la programmation de système complexe dans le cadre de logicielle tel que le jeu vidéo.
-- **Projets en cours:** Travaillant sur un projet de site e-commerce et la production d'un jeu vidéo.
-- **About me:** Passioner par les énigme en tous genre ou simplement par le fait d'apprendre, j'aime emagasiner les connaissance de toutes sorte. J'aime également un bon livre de fantaisy ou alors un sf avec un bon chocolat chaud.
-- **Ce que j'étudie en ce moment:** Approfondissement de mes connaissances IA.
+- **Formation:** Étudiant à la maîtrise en informatique de l'Université de Sherbrooke en double diplôme à l'école d'ingénieur ISEP Paris.
+- **Statut actuel:** Étudiant à l'Université de Sherbrooke.
+- **Passions:** Passionné par les nouvelles technologies, l'IA, et la programmation en tous genres. Je suis particulièrement passionné par la programmation de systèmes complexes, comme le développement de jeux vidéo.
+- **Projets en cours:** Développement d'un site e-commerce et production d'un jeu vidéo.
+- **Ce que j'étudie en ce moment:** Approfondissement de mes connaissances en IA.
 - **Fun fact:** Mon record au Rubik's cube est de 88 secondes.
 
 ---
