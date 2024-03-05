@@ -1,6 +1,7 @@
 <div>
-    <h1 align="center">NomaBouh</h1>
-    <p align="center">"La Vie c'est du Bis-Cuite"</p>
+    <img src="URL_DE_VOTRE_PHOTO" width="100px" align="left" style="margin-right: 20px"/>
+    <h1 align="right">NomaBouh</h1>
+    <p align="right">"La Vie c'est du Bis-Cuite"</p>
 </div>
 
 <div style="background-color: #0594D0;">
