@@ -1,5 +1,5 @@
 <div>
-    <img src="https://avatars.githubusercontent.com/u/92745593?v=4" width="150px" align="left" style="margin-right: 20px radius=25px"/>
+    <img src="https://avatars.githubusercontent.com/u/92745593?v=4" width="150px" align="left"/>
     <h1 align="right">NomaBouh</h1>
     <p align="right">"La Vie c'est du Bis-Cuite"</p>
 </div>
