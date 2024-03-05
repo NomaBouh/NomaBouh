@@ -23,7 +23,7 @@ Ma philosophie de vie peut se résumer ainsi : "La vie, c'est du bis-cuite". Ell
     <img src="Isep.png" alt="ISEP" width="50">
     <p>Classe Préparatoire TSI, Lycée Jules Ferry, Versailles</p>
     <p>Baccalauréat Français, Lycée Jules Ferry, Versailles</p>
-    <img src="Isep.png" alt="JulesFerry" width="50">
+    <img src="LJFV.jpg" alt="JulesFerry" width="50">
 </div>
 
 <div style="background-color: #003C57;">
