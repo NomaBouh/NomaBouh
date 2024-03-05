@@ -1,9 +1,9 @@
 <div>
     <img src="https://avatars.githubusercontent.com/u/92745593?v=4" width="100px" align="left"/>
-    <h1 align="right">NomaBouh| Thomas Bourgeois</h1>
+    <h1 align="right">NomaBouh | Thomas Bourgeois</h1>
     <p align="right">"La Vie c'est du Bis-Cuite"</p>
 </div>
-
+<p></p>
 <div>
     <h2 align="left">À propos de moi</h2>
     <p>Bonjour, je m'appelle Thomas. Mon parcours et mes passions peuvent sembler éclectiques, mais se résument en un mot : stimulant. Ce qui me passionne dans l'informatique, c'est la possibilité de relever des défis, de résoudre des problèmes complexes et de créer à partir de rien. C'est une forme de magie moderne où, ligne de code après ligne de code, je peux "jouer à dieu" en créant des mondes et des univers. Plus qu'une passion, c'est ma façon de rendre au monde une partie de ce bonheur que j'ai reçu en grandissant, console en main.
