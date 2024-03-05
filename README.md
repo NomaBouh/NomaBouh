@@ -14,6 +14,7 @@
     <p>A écrire</p>
     <!-- Exemple pour ajouter un logo d'université -->
     <img src="UDS.png" alt="Université de Sherbrooke" width="50">
+    <img src="Isep.png" alt="ISEP" width="50">
 </div>
 
 <div style="background-color: #003C57;">
