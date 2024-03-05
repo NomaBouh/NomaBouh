@@ -1,31 +1,46 @@
-<div align="center">
-
-# Bonjour, je suis NomaBouh! 👋
-
-<img src="https://avatars.githubusercontent.com/u/92745593?v=4" width="200" style="border-radius: 50%;"/>
-
-## 🌈 Mon message d'humeur
-> "La Vie c'est du Bis-Cuite"
-
+<div style="color: #051C24; background-color: #04BBFF;">
+    <h1 align="center">Votre Nom</h1>
+    <p align="center">"Votre message d'humeur"</p>
 </div>
 
----
+<div style="background-color: #0594D0;">
+    <h2>À propos de moi</h2>
+    <p>Votre texte ici...</p>
+</div>
 
-### 📚 À propos de moi
+<div style="background-color: #007198;">
+    <h2>Formation</h2>
+    <p>Votre parcours ici...</p>
+    <!-- Exemple pour ajouter un logo d'université -->
+    <img src="URL_DU_LOGO_UNIVERSITE" alt="Logo Université" width="50">
+</div>
 
-- **Formation:** Étudiant à la maîtrise en informatique de l'Université de Sherbrooke en double diplôme à l'école d'ingénieur ISEP Paris.
-- **Statut actuel:** Étudiant à l'Université de Sherbrooke.
-- **Passions:** Passionné par les nouvelles technologies, l'IA, et la programmation en tous genres. Je suis particulièrement passionné par la programmation de systèmes complexes, comme le développement de jeux vidéo.
-- **Projets en cours:** Développement d'un site e-commerce et production d'un jeu vidéo.
-- **Ce que j'étudie en ce moment:** Approfondissement de mes connaissances en IA.
-- **Fun fact:** Mon record au Rubik's cube est de 88 secondes.
+<div style="background-color: #003C57;">
+    <h2>Compétences</h2>
+    <table>
+        <tr>
+            <th>Compétence</th>
+            <th>Niveau</th>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>Avancé</td>
+        </tr>
+        <!-- Ajoutez d'autres compétences ici -->
+    </table>
+</div>
 
----
+<div style="background-color: #051C24;">
+    <h2>Projets en cours</h2>
+    <ul>
+        <li>Site E-commerce</li>
+        <li>Développement d'un jeu vidéo</li>
+    </ul>
+</div>
 
-### 📫 Comment me joindre
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/NomaBouh)
-
+<div style="background-color: #04BBFF;">
+    <h2>Contact</h2>
+    <p>GitHub: <a href="URL_GITHUB">NomaBouh</a></p>
+    <p>LinkedIn: <a href="URL_LINKEDIN">Votre Profil</a></p>
+    <!-- Ajoutez d'autres moyens de contact ici -->
 </div>
