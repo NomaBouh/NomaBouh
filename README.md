@@ -1,6 +1,6 @@
 <div>
     <img src="https://avatars.githubusercontent.com/u/92745593?v=4" width="100px" align="left"/>
-    <h1 align="right">NomaBouh\n Thomas Bourgeois</h1>
+    <h1 align="right">NomaBouh Thomas Bourgeois</h1>
     <p align="right">"La Vie c'est du Bis-Cuite"</p>
 </div>
 
