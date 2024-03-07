@@ -5,13 +5,13 @@
 </div>
 <div>
     <h2 align="left">À propos de moi</h2>
-    <p>Bonjour, je m'appelle Thomas. Mon parcours et mes passions peuvent sembler éclectiques, mais se résument en un mot : stimulant. Ce qui me passionne dans l'informatique, c'est la possibilité de relever des défis, de résoudre des problèmes complexes et de créer à partir de rien. C'est une forme de magie moderne où, ligne de code après ligne de code, je peux "jouer à dieu" en créant des mondes et des univers. Plus qu'une passion, c'est ma façon de rendre au monde une partie de ce bonheur que j'ai reçu en grandissant, console en main.
+    <p>Bonjour, je m'appelle Thomas. Passionner par l'informatique et les technologies numérique, je vois en ces domaines la possibilité de relever des défis, de résoudre des problèmes complexes et de créer.
 
-Je ne me définis pas par une réalisation particulière, mais plutôt par ma curiosité insatiable. Que ce soit à travers un bon livre, un film captivant, une nouvelle recette de cuisine, ou une anecdote fascinante, j'aime explorer et apprendre dans divers domaines. Parmi eux, le pixel art, la fantasy, les jeux sous toutes leurs formes, et les énigmes se démarquent.
+De nature curieux, que ce soit à travers un bon livre, un film captivant, une nouvelle recette de cuisine, ou une anecdote fascinante, j'aime explorer et apprendre dans divers domaines. Parmi eux, le pixel art, la fantasy, les jeux sous toutes leurs formes, et les énigmes se démarquent.
 
 En ce qui concerne mes convictions, je crois en l'humanité plus qu'en l'individu. Cependant, je reconnais que l'effort individuel mérite d'être reconnu. "Rendons à César ce qui appartient à César !"
 
-Ma philosophie de vie peut se résumer ainsi : "La vie, c'est du bis-cuite". Elle est faite de hauts et de bas, de moments de joie et de difficultés. L'important, c'est ce que nous faisons de ces expériences et comment nous pouvons les utiliser pour enrichir la vie des autres. Car, au bout du compte, nous ne laissons derrière nous que les souvenirs et les impacts de notre passage. Autant faire en sorte qu'ils soient bénéfiques.</p>
+Ma philosophie de vie peut se résumer ainsi : "La vie, c'est du bis-cuite". Elle est faite de hauts et de bas, de moments de joie et de difficultés. L'important, c'est ce que nous faisons de ces expériences et comment nous pouvons les utiliser pour enrichir la vie des autres.</p>
 </div>
 
 <div style="background-color: #007198;">
