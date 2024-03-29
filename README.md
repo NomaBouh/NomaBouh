@@ -5,13 +5,7 @@
 </div>
 <div>
     <h2 align="left">À propos de moi</h2>
-    <p>Bonjour, je m'appelle Thomas. Passionner par l'informatique et les technologies numérique, je vois en ces domaines la possibilité de relever des défis, de résoudre des problèmes complexes et de créer.
-
-De nature curieux, que ce soit à travers un bon livre, un film captivant, une nouvelle recette de cuisine, ou une anecdote fascinante, j'aime explorer et apprendre dans divers domaines. Parmi eux, le pixel art, la fantasy, les jeux sous toutes leurs formes, et les énigmes se démarquent.
-
-En ce qui concerne mes convictions, je crois en l'humanité plus qu'en l'individu. Cependant, je reconnais que l'effort individuel mérite d'être reconnu. "Rendons à César ce qui appartient à César !"
-
-Ma philosophie de vie peut se résumer ainsi : "La vie, c'est du bis-cuite". Elle est faite de hauts et de bas, de moments de joie et de difficultés. L'important, c'est ce que nous faisons de ces expériences et comment nous pouvons les utiliser pour enrichir la vie des autres.</p>
+    <p>Bonjour, je m'appelle Thomas. Passionner par l'informatique et les technologies numérique, je vois en ces domaines la possibilité de relever des défis, de résoudre des problèmes complexes et de créer.</p>
 </div>
 
 <div style="background-color: #007198;">
