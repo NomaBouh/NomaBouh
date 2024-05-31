@@ -91,7 +91,7 @@
 <div style="background-color: #051C24;">
     <h2>Projets en cours</h2>
     <ul>
-        <li>Site E-commerce</li>
+        <li>Site personnel</li>
         <li>Développement d'un jeu vidéo</li>
     </ul>
 </div>
