@@ -5,7 +5,7 @@
 </div>
 <div>
     <h2 align="left">À propos de moi</h2>
-    <p>Bonjour, je m'appelle Thomas. Passionner par l'informatique et les technologies numérique, je vois en ces domaines la possibilité de relever des défis, de résoudre des problèmes complexes et de créer.</p>
+    <p>Si la pratique mène à la réussite alors au boulot.</p>
 </div>
 
 <div style="background-color: #007198;">
