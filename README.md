@@ -97,8 +97,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/NomaBouh)
-[![LinkedIn](https://www.linkedin.com/in/thomas-bourgeois-dev/)
-[![Email](perso.thomas.bourgeois@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bourgeois-dev/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perso.thomas.bourgeois@gmail.com)
 [![CodingGame](https://img.shields.io/badge/-CodingGame-0A0A0A?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/808add54536a066540a9d2f937e2d3e70487245)
-[![Itch.io](https://nomabouh.itch.io/)
-
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://nomabouh.itch.io/)
