@@ -91,14 +91,14 @@
 <div style="background-color: #051C24;">
     <h2>Projets en cours</h2>
     <ul>
-        <li>Site personnel</li>
-        <li>Développement d'un jeu vidéo</li>
+        <li></li>
     </ul>
 </div>
 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/NomaBouh)
-[![LinkedIn]Temporairement out)
-[![Email](Temporairement out)
+[![LinkedIn](https://www.linkedin.com/in/thomas-bourgeois-dev/)
+[![Email](perso.thomas.bourgeois@gmail.com)
 [![CodingGame](https://img.shields.io/badge/-CodingGame-0A0A0A?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/808add54536a066540a9d2f937e2d3e70487245)
+[![Itch.io](https://nomabouh.itch.io/)
 
